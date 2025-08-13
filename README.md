@@ -1,136 +1,43 @@
-# HTML
+<h1 align="center"> Discovery </h1>
 
-# <h1> </h1>
+<p align="center">
+Projeto Full-Stack.
+</p>
 
-- adicionar título
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-# <p> </p>
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- escrever parágrafos no site
+<br>
 
-# <a> </a>
+<p align="center">
+  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+</p>
 
-- adicionar links
+## 🚀 Tecnologias
 
-# <img>
-- adicionar imagens 
--src = procura uma a imagem
--alt = quando a foto n carrega, fica um texto descrevendo a imagem.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-# <a> <b> </b> </a>
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
 
-- Deixar as tags na mesma linha 
+## 💻 Projeto
 
-# </br>
+0 Projeto Discovery é um agregador de links para usar como cartão de visitas online.
 
-- Pular uma linha 
+## 🔖 Layout
 
-# <header>
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/MF894TdzM99Fg9Ssu4KyMq/DevLinks--Copy-?node-id=0-1&p=f&t=2doFpvt48xRjwcSh-0/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
--Quadrado principal do site
+## :memo: Licença
 
-# <span>
-
-- destaca uma palavra de uma frase
-
-# <Head>
-
-- Quadrado principal do site ou o maior.
-- Não é visivel
-
-# <Body>
-
-- Onde todo o conteúdo é visível e interativo.
-
- # <div>
-
-- Um bloco dentro do <body> para organizar algum conteúdo.
-
-# <ul>
-
-- Cria uma lista 
-
-# <li>
-
-- Um item da lista
-
-# target="_blank"
-
-- Cria uma janela nova do link em q vc clicou
-
-# <footer>
-
-- Usado para criar rodapé
-
-# id 
-
-- Identificador de algum elemento
-
-
-
-
-
-
-
-# CSS
-
-*Em elemento inLine não é possivel aplicar o margin: auto !
-
-
-1- Margin: em cima(x) direita(auto) em baixo(0) esquerda(auto);
-
-    - Centraliza a imagem q n é inLine
-
-2- Padding
-    - padding é o espaço entre o conteúdo do elemento e sua borda
-
-3- Display none
-
-    - Uma propriedade CSS que oculta um elemento da página
-
-# body
-
-- Seletor da tag 
-
-# background
-
-- Muda a cor do fundo
-
-body{
-    background: black;
-}
-
-# Cascading
-
-- Quando há 2 ou mais declarações ultima será mais relevante
-
-# Specifity
-
-- Cada seletor tem um peso e a soma dos pesos, será levada em conta para que determinada declaração seja mais específica
-
-- id { peso 100 }
-- .class { peso 10 }
-- element { peso 1 }
-
-# Box model 
-
-- Tudo são caixas
-
-
-
-
-# JS
-
-- alert = print
-
-- let = faz com que uma variavel possa ser alterada
-
-- const = Faz com que uma variavel n possa ser alterada
-
-# Funcoes ou function
-
-- Agrupamento de código
-- Reuso de code
-- Mini programa dentro do programa maior
-- Toda linguagem oferece muitas opções
-
+Esse projeto está sob a licença MIT.
